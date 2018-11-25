@@ -7,4 +7,4 @@ An application that allows 10 League of Legends players to input their usernames
 ## Project Design
 **Java:** Using a sorting algorithm or optimizing it so that “weight” can be assigned to player ranks in order to simplify the process of grouping them by similar ranks. 
 
-**Python:** Writing code to scrape headings, metadata, etc. off of [opgg] (http://na.op.gg/) in order to obtain information about player names, ranks, positions, etc. Crawler information will be written to a CSV file via Python.
+**Python:** Writing code to scrape headings, metadata, etc. off of (http://na.op.gg/) in order to obtain information about player names, ranks, positions, etc. Crawler information will be written to a CSV file via Python.
