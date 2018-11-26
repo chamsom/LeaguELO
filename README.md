@@ -20,4 +20,4 @@ We will be using **Beautiful Soup 4**  for the purpose of web crawling and extra
 
 
 ###### Additional Information & Related Projects
-(Matchamking system) https://nexus.leagueoflegends.com/en-us/2018/02/dev-matchmaking-real-talk/ 
+Dev diary talking about how teams are [balanced] (https://nexus.leagueoflegends.com/en-us/2018/02/dev-matchmaking-real-talk/)
