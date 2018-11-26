@@ -16,9 +16,6 @@ We will be using **Beautiful Soup 4**  for the purpose of web crawling and extra
 2. Manage to pass information from Web-->Python-->CSV file-->Java.
 3. Successfully matchmake 10 players into 2 teams ±1 or ±2 variance in assigned rank weight.
 
-
-
-
 ###### Additional Information & Related Projects
 https://en.wikipedia.org/wiki/Elo_rating_system
 
