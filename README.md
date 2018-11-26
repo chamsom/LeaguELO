@@ -7,7 +7,8 @@ An application that allows 10 League of Legends players to input their usernames
 ## Project Design & Dependencies 
 **Python:** Writing code to scrape headings, metadata, etc. off of (http://na.op.gg/) in order to obtain information about player names, ranks, positions, etc. Crawler information will be written to a CSV file via Python.
 
-We will be using **Beautiful Soup 4**  for the purpose of web crawling and extracting information about our players. For more information regarding the installation and code usage for BS4 visit: (https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+We will be using **Beautiful Soup 4**  for the purpose of web crawling and extracting information about our players. 
+For more information regarding the installation and code usage for BS4 visit: (https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 
 **Java:** Using a sorting algorithm or optimizing it so that “weight” can be assigned to player ranks in order to simplify the process of grouping them by similar ranks. 
 
