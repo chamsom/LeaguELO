@@ -15,3 +15,9 @@ We will be using **Beautiful Soup 4**  for the purpose of web crawling and extra
 1. Learn to implement a web crawler library and output crawled data from HTML to a CSV file.
 2. Manage to pass information from Web-->Python-->CSV file-->Java.
 3. Successfully matchmake 10 players into 2 teams ±1 or ±2 variance in assigned rank weight.
+
+
+
+
+###### Additional Information & Related Projects
+(Matchamking system) https://nexus.leagueoflegends.com/en-us/2018/02/dev-matchmaking-real-talk/ 
