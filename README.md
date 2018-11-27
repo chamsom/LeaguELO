@@ -1,7 +1,7 @@
 # LeaguELO
 
 ## Abstract
-An application that allows 10 League of Legends players to input their usernames and then sort themselves into 2 teams that are balanced by current ranks.
+An application that allows 10 League of Legends players to input their usernames and then sort themselves into 2 teams that are balanced by current divisions.
 
 ## Project Design & Dependencies 
 **Python:** Writing code to scrape headings, metadata, etc. off of (http://na.op.gg/) in order to obtain information about player names, ranks, positions, etc. Crawler information will be written to a CSV file via Python.
