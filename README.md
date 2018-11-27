@@ -14,7 +14,7 @@ We will be using **Beautiful Soup 4**  for the purpose of web crawling and extra
 ## Project Milestones
 1. Learn to implement a web crawler library and output crawled data from HTML to a CSV file.
 2. Manage to pass information from Web-->Python-->CSV file-->Java.
-3. Successfully matchmake 10 players into 2 teams ±1 or ±2 variance in assigned rank weight.
+3. Successfully matchmake 10 players into 2 teams with 0 variance in assigned rank weight. Teams should be perfectly balanced by their divisions.
 
 ###### Additional Information & Related Projects
 https://en.wikipedia.org/wiki/Elo_rating_system
