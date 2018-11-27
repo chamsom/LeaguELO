@@ -9,7 +9,7 @@ An application that allows 10 League of Legends players to input their usernames
 
 We will be using **Beautiful Soup 4**  for the purpose of web crawling and extracting information about our players. For more information regarding the installation and code usage for BS4 visit: (https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 
-**Java:** Using a sorting algorithm or optimizing it so that “weight” can be assigned to player ranks in order to simplify the process of grouping them by similar ranks. 
+**Java:** Using a sorting algorithm or optimizing it so that “weight” can be assigned to player ranks in order to simplify the process of grouping them by similar ranks. You **must have the JDK version installed with an equivalent JRE** or else **Person.java** will fail to compile.
 
 ## Project Milestones
 1. Learn to implement a web crawler library and output crawled data from HTML to a CSV file.
