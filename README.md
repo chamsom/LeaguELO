@@ -8,7 +8,7 @@ An application that allows 10 League of Legends players to input their usernames
 
 We will be using **Beautiful Soup 4**  for the purpose of web crawling and extracting information about our players. For more information regarding the installation and code usage for BS4 visit: (https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 
-**Java:** A portion of the project will also implement Java as a means to learn more about OOP. FixCombinationCode.java finds all permutations of potential teammates and then places them in an array. Players with no duplicates are then placed into a sub array in which two balanced teams are created with no repetition.
+**Java:** A portion of the project will also implement Java as a means to learn more about OOP. FixCombinationCodeWithPerson.java finds all permutations of potential teammates and then places them in an array. Players with no duplicates are then placed into a sub array in which two balanced teams are created with no repetition.
 
 **You must have the JDK version installed with an equivalent JRE** or else **FixCombinationCodeWithPerson.java** will fail to compile. For more info regarding this error please visit: https://stackoverflow.com/questions/10382929/how-to-fix-java-lang-unsupportedclassversionerror-unsupported-major-minor-versi/10443722
 
